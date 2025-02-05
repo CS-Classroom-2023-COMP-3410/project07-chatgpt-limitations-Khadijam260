@@ -1,0 +1,1 @@
+To the multiplayer game, I asked chatgpt for help and it was able to fix it in just one query. It updated the js code to support a two-player turn-based system. Players take turns flipping cards, and their scores will be displayed accordingly.Players switch turns when they fail to match a pair. 

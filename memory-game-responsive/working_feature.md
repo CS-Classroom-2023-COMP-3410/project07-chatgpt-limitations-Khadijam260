@@ -1,0 +1,1 @@
+For the responsive game, I've been struggling with using ChatGPT, the best I could do involved making the screen size more responsive, however the aesthetics look slightly off. I made changes to the css file, I updated the game-container, grid, and card classes mainly along with some other classes in the file as well.
